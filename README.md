@@ -2,6 +2,19 @@
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 11.0.2.
 
+## Temas
+
+* Diferentes aproximaciones que tiene angular para trabajar formularios.
+* Uso de ngModel.
+* Utilizar las validaciones pre fabricadas.
+* Crear validaciones personalizadas.
+* Crear validaciones asíncronas.
+* Realizar un submit utilizando ngSubmit.
+* Postear información cuando el formulario es valido.
+* Crear formularios del lado del componente.
+* Cargar información por defecto a los formularios.
+* Subscribirnos a los cambios de los valores de los formularios.
+
 ## Development server
 
 Run `ng serve` for a dev server. Navigate to `http://localhost:4200/`. The app will automatically reload if you change any of the source files.
