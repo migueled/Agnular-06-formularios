@@ -13,19 +13,20 @@ import { TemplateComponent } from './pages/template/template.component';
 import { ReactiveComponent } from './pages/reactive/reactive.component';
 
 @NgModule({
-  declarations: [
-    AppComponent,
-    TemplateComponent,
-    ReactiveComponent
-  ],
-  imports: [
-    BrowserModule,
-    AppRoutingModule,
-    FormsModule,
-    HttpClientModule,
-    ReactiveFormsModule
-  ],
-  providers: [],
-  bootstrap: [AppComponent]
+    declarations: [
+        AppComponent,
+        TemplateComponent,
+        ReactiveComponent
+    ],
+    imports: [
+        BrowserModule,
+        AppRoutingModule,
+        FormsModule,
+        HttpClientModule,
+        ReactiveFormsModule
+    ],
+    providers: [],
+    bootstrap: [AppComponent]
 })
+
 export class AppModule { }
